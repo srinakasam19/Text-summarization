@@ -1,0 +1,15 @@
+arxiv 
+wikipedia
+langchain_community
+langchain-openai
+faiss-cpu 
+retriever 
+langchain-groq
+transformers
+pypdf
+unstructured
+validators==0.28.1 
+youtube_transcript_api
+pytube
+streamlit
+python-dotenv
